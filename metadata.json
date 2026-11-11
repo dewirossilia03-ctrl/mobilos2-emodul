@@ -1,0 +1,6 @@
+{
+  "name": "Mobilitas Sosial Interaktif - IPS Kelas VIII",
+  "description": "Bahan ajar digital interaktif IPS Kelas VIII SMP materi Bentuk-Bentuk Mobilitas Sosial karya Ibu Dewi Rossilia, S.Pd. Dilengkapi visualisasi komparatif, detektif kasus nyata, simulasi bercabang, dan umpan balik belajar interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
